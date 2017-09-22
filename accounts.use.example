@@ -1,0 +1,9 @@
+# Example account file
+# You need to put your credentials in the file 
+# and to remove teh '.example' extension.
+
+# Login to IP2Location
+IP2location;YOUR_EMAIL;YOUR_PASSWORD
+
+# Login to OpenIPMap
+OpenIPMap;YOUR_EMAIL;YOUR_PASSWORD
