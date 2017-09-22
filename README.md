@@ -27,7 +27,7 @@ The scripts `get_data.py`and `prepare_data.py` are used less often to retrieve d
 =============================
 ## Requirements
 
-The following modules ar erequired for this set of script to work:
+The following modules are required for this set of script to work:
 
 * requests (pip install requests)
 * netaddr (pip install netaddr)
